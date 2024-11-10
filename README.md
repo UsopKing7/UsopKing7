@@ -12,45 +12,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Limbert 👨‍💻</h1>
+<h1 align="center">👾 Hola, Mundo! 👾 <br> Soy Limbert - Aspirante a Hacker Ético ⚔️</h1>
 
-I am a Cybersecurity Enthusiast and Pentester in Training, always diving deeper into the digital world and learning how to keep it secure.
+<p align="center">
+    Explorador de sistemas, amante del hacking ético, y siempre dispuesto a desafiar los límites de la ciberseguridad.
+</p>
 
-<img align="right" alt="Hacker GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY1ZTM5NzFjNTc2YjM2YzcyNDU0MDViNzliZGM3MWEzZTRhZGE2ZCZjdD1n/giphy.gif" width="400" height="300" />
+<img align="right" alt="Hacker GIF" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="350" height="250" />
 
-- 🕵️‍♂️ Exploring the world of offensive security
-- 🔐 Currently learning about exploit development and reverse engineering
-- 🛠️ Open to collaborating on open-source security tools
-- 📧 Reach me at: hack3rlimb3rt@gmail.com
-- 🎹 Fun fact: I can also hack... melodies on the piano!
+- 🕶️ Sumergido en el estudio de **Pentesting** y **Explotación de Vulnerabilidades**
+- 🔍 Actualmente aprendiendo sobre **ingeniería inversa** y **desarrollo de exploits**
+- 🛠️ Colaborando en herramientas de **código abierto para la seguridad**
+- 💌 Contáctame: hack3rlimb3rt@gmail.com
+- 🎹 Fun fact: También toco el piano... cuando no estoy "hackeando"
 
 <br>
 
-### 🛠️ Tools & Technologies:
+---
+
+### 🧰 Herramientas y Tecnologías:
 
 <p align="left">
-    <a href="https://www.kali.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/console.png"/> </a>
-    <a href="https://www.wireshark.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wireshark.png"/> </a>
+    <a href="https://www.kali.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/></a>
+    <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wireshark.png"/></a>
     <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-burp-suite-the-leading-software-for-web-security-testing-logo-color-tal-revivo.png"/></a>
+    <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nmap.png"/></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/color/48/000000/console.png"/></a>
+    <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/metasploit.png"/></a>
 </p>
 
 <br>
 
-### 📊 GitHub Stats:
+---
 
-![Limbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+### 📈 Estadísticas de GitHub:
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
+
 <br>
 
-### 💻 Let's Connect:
+---
 
-<a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://twitter.com/yourusername"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://tryhackme.com/p/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/tryhackme.png"/></a>
-<a href="https://www.hackthebox.eu/profile/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/hackthebox.png"/></a>
+### 🔗 Conéctate conmigo:
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <a href="https://twitter.com/yourusername"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+    <a href="https://tryhackme.com/p/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/tryhackme.png"/></a>
+    <a href="https://www.hackthebox.eu/profile/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/hackthebox.png"/></a>
+</div>
 
