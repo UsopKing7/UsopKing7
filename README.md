@@ -28,6 +28,19 @@
     <a href="https://archlinux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/arch-linux.png"/></a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
     <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nmap.png"/></a>
+    <a href="https://wpscan.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
+    <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-hydra-coding-and-programming-flaticons-flat-flat-icons.png"/></a>
+    <a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.icons8.com/external-wanicon-flat-wanicon/48/000000/external-password-protection-wanicon-flat-wanicon.png"/></a>
+    <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/wireshark.png"/></a>
+    <a href="https://netcat.sourceforge.net/" target="_blank"><img src="https://img.icons8.com/ios/48/000000/network.png"/></a>
+    <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/burpsuite.png"/></a>
+    <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/metasploit.png"/></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/color/48/000000/console.png"/></a>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 </p>
 
 <br>
@@ -49,7 +62,4 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/limbertusername/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/limbertusername"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-    <a href="https://tryhackme.com/p/limbertusername"><img src="https://img.icons8.com/ios-filled/50/000000/tryhackme.png"/></a>
-    <a href="https://www.hackthebox.eu/profile/limbertusername"><img src="https://img.icons8.com/ios-filled/50/000000/hackthebox.png"/></a>
 </div>
