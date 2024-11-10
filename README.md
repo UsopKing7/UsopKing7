@@ -25,7 +25,7 @@
 
 <p align="left">
     <a href="https://www.kali.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/></a>
-    <a href="https://archlinux.org/" target="_blank"><img src="https://www.clipartmax.com/png/full/225-2258676_arch-linux-bot-icono-de-arch-linux.png"/></a>
+    <a href="https://archlinux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/arch-linux.png"/></a>
 </p>
 
 <br>
