@@ -25,14 +25,14 @@
 
 <p align="left">
     <a href="https://www.kali.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/></a>
-    <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wireshark.png"/></a>
-    <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-burp-suite-the-leading-software-for-web-security-testing-logo-color-tal-revivo.png"/></a>
+    <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/wireshark.png"/></a>
+    <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/burpsuite.png"/></a>
     <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nmap.png"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/color/48/000000/console.png"/></a>
     <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/metasploit.png"/></a>
-    <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.icons8.com/color/48/000000/hydra.png"/></a>
-    <a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.icons8.com/color/48/000000/john-the-ripper.png"/></a>
+    <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-hydra-coding-and-programming-flaticons-flat-flat-icons.png"/></a>
+    <a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.icons8.com/external-wanicon-flat-wanicon/48/000000/external-password-protection-wanicon-flat-wanicon.png"/></a>
     <a href="https://wpscan.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
     <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
