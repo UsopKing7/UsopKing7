@@ -31,7 +31,7 @@
     <a href="https://wpscan.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
     <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.icons8.com/color/48/000000/hydra.png"/></a>
     <a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.icons8.com/nolan/512/wireshark.png"/></a>
-    <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/wireshark.png"/></a>
+    <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/wireshark.png" width="35"/></a>
     <a href="https://netcat.sourceforge.net/" target="_blank"><img src="https://img.icons8.com/ios/48/000000/network.png"/></a>
     <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/burpsuite.png"/></a>
     <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/metasploit.png"/></a>
