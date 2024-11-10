@@ -58,5 +58,5 @@
 ### 🔗 Conéctate conmigo:
 
 <div align="center">
-    <a href="www.linkedin.com/in/nicolas-guarachi-561694317"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/nicolas-guarachi-561694317/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </div>
