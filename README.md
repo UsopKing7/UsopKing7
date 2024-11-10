@@ -29,7 +29,7 @@
     <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
     <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nmap.png"/></a>
     <a href="https://wpscan.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
-    <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-hydra-coding-and-programming-flaticons-flat-flat-icons.png"/></a>
+    <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.icons8.com/color/48/000000/hydra.png"/></a>
     <a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.icons8.com/external-wanicon-flat-wanicon/48/000000/external-password-protection-wanicon-flat-wanicon.png"/></a>
     <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/wireshark.png"/></a>
     <a href="https://netcat.sourceforge.net/" target="_blank"><img src="https://img.icons8.com/ios/48/000000/network.png"/></a>
