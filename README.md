@@ -1,18 +1,8 @@
 <!--
-**UsopKing7/UsopKing7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**UsopKing7/UsopKing7** es un repositorio especial porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
 -->
-<h1 align="center">👾 Hola, Mundo! 👾 <br> Soy Limbert - Aspirante a Hacker Ético ⚔️</h1>
+
+<h1 align="center">👾 ¡Hola, Mundo! 👾 <br> Soy Limbert - Aspirante a Hacker Ético ⚔️</h1>
 
 <p align="center">
     Explorador de sistemas, amante del hacking ético, y siempre dispuesto a desafiar los límites de la ciberseguridad.
@@ -24,7 +14,8 @@ Here are some ideas to get you started:
 - 🔍 Actualmente aprendiendo sobre **ingeniería inversa** y **desarrollo de exploits**
 - 🛠️ Colaborando en herramientas de **código abierto para la seguridad**
 - 💌 Contáctame: nicolasguarachi888@gmail.com
-- 🎹 Fun fact: me da muy bien la ingenieria social 
+- 🎹 Fun fact: me va muy bien la ingeniería social 
+- 💼 En busca de oportunidades en **ciberseguridad y pentesting**
 
 <br>
 
@@ -38,9 +29,13 @@ Here are some ideas to get you started:
     <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-burp-suite-the-leading-software-for-web-security-testing-logo-color-tal-revivo.png"/></a>
     <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nmap.png"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/color/48/000000/console.png"/></a>
     <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/metasploit.png"/></a>
+    <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.icons8.com/color/48/000000/hydra.png"/></a>
+    <a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.icons8.com/color/48/000000/john-the-ripper.png"/></a>
+    <a href="https://wpscan.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
+    <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 </p>
 
 <br>
@@ -50,8 +45,8 @@ Here are some ideas to get you started:
 ### 📈 Estadísticas de GitHub:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Lenguajes más usados" />
+    <img src="https://github-readme-stats.vercel.app/api?username=UsopKing7&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsopKing7&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 
 <br>
@@ -61,9 +56,8 @@ Here are some ideas to get you started:
 ### 🔗 Conéctate conmigo:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/yourusername"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-    <a href="https://tryhackme.com/p/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/tryhackme.png"/></a>
-    <a href="https://www.hackthebox.eu/profile/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/hackthebox.png"/></a>
+    <a href="https://www.linkedin.com/in/limbertusername/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <a href="https://twitter.com/limbertusername"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+    <a href="https://tryhackme.com/p/limbertusername"><img src="https://img.icons8.com/ios-filled/50/000000/tryhackme.png"/></a>
+    <a href="https://www.hackthebox.eu/profile/limbertusername"><img src="https://img.icons8.com/ios-filled/50/000000/hackthebox.png"/></a>
 </div>
-
