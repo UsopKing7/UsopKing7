@@ -26,7 +26,7 @@
 <p align="left">
     <a href="https://www.kali.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/></a>
     <a href="https://www.wireshark.org/" target="_blank"><img src="[https://img.icons8.com/color/48/000000/wireshark.png](https://e7.pngegg.com/pngimages/127/573/png-clipart-blue-angle-symbol-aqua-apps-wireshark-blue-computer-network.png)"/></a>
-    <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-burp-suite-the-leading-software-for-web-security-testing-logo-color-tal-revivo.png"/></a>
+    <a href="https://portswigger.net/burp" target="_blank"><img src="[https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-burp-suite-the-leading-software-for-web-security-testing-logo-color-tal-revivo.png](https://w7.pngwing.com/pngs/244/923/png-transparent-burpsuite-security-software-macaron-icon.png)"/></a>
     <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nmap.png"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/color/48/000000/console.png"/></a>
