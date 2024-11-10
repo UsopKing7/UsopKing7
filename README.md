@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🕶️ Sumergido en el estudio de **Pentesting** y **Explotación de Vulnerabilidades**
 - 🔍 Actualmente aprendiendo sobre **ingeniería inversa** y **desarrollo de exploits**
 - 🛠️ Colaborando en herramientas de **código abierto para la seguridad**
-- 💌 Contáctame: hack3rlimb3rt@gmail.com
-- 🎹 Fun fact: También toco el piano... cuando no estoy "hackeando"
+- 💌 Contáctame: nicolasguarachi888@gmail.com
+- 🎹 Fun fact: me da muy bien la ingenieria social 
 
 <br>
 
