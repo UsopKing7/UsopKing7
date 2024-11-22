@@ -59,4 +59,5 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/nicolas-guarachi-561694317/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <a href="https://www.youtube.com/@limbertguarachi2400"><img src="https://img.icons8.com/color/48/000000/youtube.png"></a> 
 </div>
