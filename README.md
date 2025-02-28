@@ -1,8 +1,12 @@
-<!--
-**UsopKing7/UsopKing7** es un repositorio especial porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
--->
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">👾 ¡Hola, Mundo! 👾 <br> Soy Limbert - Aspirante a Hacker Ético ⚔️</h1>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">👾 ¡Hola, Mundo! 👾 <br> Soy Nicolás - Aspirante a Hacker Ético ⚔️</h1></summary>
+  </ul>
+</div>
 
 <p align="center">
     Explorador de sistemas, amante del hacking ético, y siempre dispuesto a desafiar los límites de la ciberseguridad.
@@ -13,55 +17,66 @@
 - 🕶️ Sumergido en el estudio de **Pentesting** y **Explotación de Vulnerabilidades**
 - 🔍 Actualmente aprendiendo sobre **ingeniería inversa** y **desarrollo de exploits**
 - 🛠️ Colaborando en herramientas de **código abierto para la seguridad**
-- 💌 Contáctame: nicolasguarachi888@gmail.com
-- 🎹 Fun fact: me va muy bien la ingeniería social 
+- 💌 Contáctame: **programadorusop@gmail.com**
+- 🎹 Fun fact: me va muy bien la **ingeniería social**
 - 💼 En busca de oportunidades en **ciberseguridad y pentesting**
 
-<br>
+---
+
+### 🐍 Animación de código:
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake animation" />
+</div>
 
 ---
 
 ### 🧰 Herramientas y Tecnologías:
 
-<p align="left">
-    <a href="https://www.kali.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/></a>
-    <a href="https://archlinux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/arch-linux.png"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
-    <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nmap.png"/></a>
-    <a href="https://wpscan.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
-    <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.icons8.com/color/48/000000/hydra.png"/></a>
-    <a href="https://netcat.sourceforge.net/" target="_blank"><img src="https://img.icons8.com/ios/48/000000/network.png"/></a>
-    <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/metasploit.png"/></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/color/48/000000/console.png"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-    <a href="https://nodejs.org/es" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png"></a>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,bash,python,git,nmap,metasploit,docker,aws,postgres,mysql,nginx,react,nodejs,js,vscode,github" />
 </p>
 
-<br>
+---
+
+### 📊 Estadísticas de GitHub:
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsopKing7&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UsopKing7&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsopKing7&theme=dark&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
-### 📈 Estadísticas de GitHub:
-
+### 🏆 Trofeos:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=UsopKing7&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsopKing7&layout=compact&theme=radical" alt="Lenguajes más usados" />
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical" alt="More Nish Stats" /></p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img align="center" width=80% src="https://github-profile-trophy.vercel.app/?username=UsopKing7&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
-
-<br>
 
 ---
 
-### 🔗 Conéctate conmigo:
+### 🤝 Conéctate conmigo:
+<p align="center">
+<a href="https://www.linkedin.com/in/limbertguarachi/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/71914195" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" /></a>
+</p>
 
+---
+
+<!--profile visit count-->
 <div align="center">
-    <a href="https://www.linkedin.com/in/nicolas-guarachi-561694317/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-    <a href="https://www.youtube.com/@limbertguarachi2400"><img src="https://img.icons8.com/color/48/000000/youtube.png"></a> 
+[![](https://visitcount.itsvg.in/api?id=UsopKing7&icon=3&color=6)](https://visitcount.itsvg.in)
 </div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
