@@ -47,8 +47,6 @@
 <img src="https://img.icons8.com/?size=48&id=24895&format=png" width="40">
 <img src="https://img.icons8.com/?size=48&id=30998&format=png" width="40">
 <img src="https://img.icons8.com/?size=64&id=vECpai5R423e&format=gif" width="40">
-<img src="" width="40">
-<img src="" width="40">
 </div>
 
 ---
