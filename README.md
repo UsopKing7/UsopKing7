@@ -52,6 +52,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=UsopKing7&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsopKing7&layout=compact&theme=radical" alt="Lenguajes más usados" />
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical" alt="More Nish Stats" /></p>
 </div>
 
 <br>
