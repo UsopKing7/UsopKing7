@@ -25,7 +25,30 @@
 
 ### 🐍 Animación de código:
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake animation" />
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40">
+<img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" width="40">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" width="40">
+<img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" width="40">
+<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="40">
+<img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png" width="40">
+<img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" width="40">
+<img src="https://img.icons8.com/?size=48&id=uIXgLv5iSlLJ&format=png" width="40">
+<img src="https://img.icons8.com/?size=80&id=qBWtR72kluCU&format=png" width="40">
+<img src="https://img.icons8.com/?size=48&id=17838&format=png" width="40">
+<img src="https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png" width="40">
+<img src="https://img.icons8.com/?size=64&id=iFPHC1KfnoxC&format=png" width="40">
+<img src="https://img.icons8.com/?size=48&id=20906&format=png" width="40">
+<img src="https://img.icons8.com/?size=50&id=12599&format=png" width="40">
+<img src="https://img.icons8.com/?size=80&id=qGZRK3KTK57F&format=png" width="40">
+<img src="https://img.icons8.com/?size=48&id=Lk2Q5FRKDWGI&format=png" width="40">
+<img src="https://img.icons8.com/?size=80&id=uA8wS3ocqih0&format=png" width="40">
+<img src="https://img.icons8.com/?size=80&id=nuPce-GYYZeC&format=png" width="40">
+<img src="https://img.icons8.com/?size=48&id=24895&format=png" width="40">
+<img src="https://img.icons8.com/?size=48&id=30998&format=png" width="40">
+<img src="https://img.icons8.com/?size=64&id=vECpai5R423e&format=gif" width="40">
+<img src="" width="40">
+<img src="" width="40">
 </div>
 
 ---
@@ -33,7 +56,7 @@
 ### 🧰 Herramientas y Tecnologías:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,bash,python,git,nmap,metasploit,docker,aws,postgres,mysql,nginx,react,nodejs,js,vscode,github" />
+    <img src"https://www.flaticon.es/icono-gratis/piton_5968350?term=lenguaje+de+programaci%C3%B3n&page=1&position=1&origin=tag">
 </p>
 
 ---
