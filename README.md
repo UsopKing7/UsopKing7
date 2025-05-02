@@ -1,127 +1,79 @@
-<h1 align="center">¡Hola Mundo! 👋 Soy Nicolás</h1>
-<h3 align="center">Desarrollador Full Stack | Especialista en JavaScript | Entusiasta del Open Source</h3>
+<br clear="both">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+JavaScript;Linux+Enthusiast+%F0%9F%90%BE;Clean+Code+Advocate;React+%7C+Node.js+%7C+TypeScript+%7C+SQL;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</p>
+<h1 align="center">Hola 👋! Mi nombre es Nicolas</h1>
 
----
-
-## 🚀 Sobre Mí
-
-- 💼 **Desarrollador Full Stack** con enfoque en soluciones robustas y escalables
-- 🌱 Actualmente profundizando en **Arquitectura de Software** y **Patrones de Diseño**
-- 🛠 Trabajando en un **Sistema de Gestión de Convenios** con React + Node.js
-- 🐧 **Linux Power User** - Arch Linux + Hyprland + Neovim
-- 📚 Autodidacta permanente - Actualmente aprendiendo **Go** y **GraphQL**
-- ✨ Apasionado por la **optimización de procesos** y **experiencia de desarrollo**
-
----
-
-## 🛠 Stack Tecnológico
-
-### 💻 Lenguajes & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,nestjs,html,css,tailwind,sass" />
-</p>
-
-### 🗃️ Bases de Datos & ORMs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,sequelize" />
-</p>
-
-### 🛠️ Herramientas & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,nginx,linux,bash,vim,neovim" />
-</p>
-
----
-
-## 📈 Mis Estadísticas GitHub
+###
 
 <div align="center">
-  
-  ![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=UsopKing7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=UsopKing7&theme=radical&hide_border=true)
-  
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=UsopKing7&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=dotfiles)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=UsopKing7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UsopKing7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 🏆 Logros Destacados
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🥇 **1er lugar** en Hackathon Universitario 2023 (Categoría Desarrollo Web)
-- 📜 Certificado en **Backend Development** (Meta Professional Certificate)
-- 🚀 **3 proyectos open source** mantenidos activamente
-- 📝 **50+ contribuciones** a proyectos open source
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+</div>
 
-## 🔥 Entorno de Desarrollo
+###
 
-```yaml
-SO: Arch Linux x86_64 
-WM: Hyprland 
-Terminal: Kitty + Zsh + Starship
-Shell: zsh 5.9 
-Editor: Neovim + LSP 
-Browser: Firefox Developer Edition
-Theme: Catppuccin Macchiato
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-```
-## 📝 Últimos Proyectos
+###
 
-1. **Sistema de Gestión de Convenios** - Plataforma full-stack para gestión documental  
-   `Stack`: React + TypeScript + NestJS + PostgreSQL  
-   🔒 *Repositorio privado (disponible bajo petición)*
+<br clear="both">
 
-2. [TaskFlow CLI](https://github.com/UsopKing7/taskflow-cli) - Gestor de tareas desde terminal  
-   `Stack`: Node.js + Commander.js + SQLite  
-   ![Stars](https://img.shields.io/github/stars/UsopKing7/taskflow-cli?style=flat-square)
+<img src="https://raw.githubusercontent.com/UsopKing7/UsopKing7/output/snake.svg" alt="Snake animation" />
 
-3. [Dotfiles](https://github.com/UsopKing7/dotfiles) - Configuración personalizada para Linux  
-   `Stack`: Shell Script + Hyprland + Kitty  
-   ![Last Commit](https://img.shields.io/github/last-commit/UsopKing7/dotfiles?style=flat-square)
-
----
-
-## 📚 Blog Técnico
-
-✍️ Artículos recientes:
-
-- [Optimizando flujos con Neovim](https://ejemplo.com/neovim-workflow) - `Productividad` `Linux`  
-- [TypeScript en proyectos React](https://ejemplo.com/react-typescript) - `Frontend` `Best Practices`  
-- [Arch Linux para devs](https://ejemplo.com/arch-for-devs) - `Linux` `DevOps`
-
----
-
-## 📫 ¿Cómo contactarme?
-
-<p align="center">
-  <a href="https://github.com/UsopKing7" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/nicolas-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:nicolas.dev@protonmail.com">
-    <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://twitter.com/NicolasDev_" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</p>
-
----
+###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://profile-counter.glitch.me/UsopKing7/count.svg?"  />
 </div>
 
-> *"Dominar el arte de programar es como aprender un idioma:  
-> se necesita práctica constante y proyectos reales para fluir."*  
->  
-> 👨‍💻 **¿Conversamos?** No dudes en contactarme para colaboraciones o charlas técnicas.
+###
