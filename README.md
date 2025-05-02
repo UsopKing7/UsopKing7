@@ -1,4 +1,4 @@
-# Nicolás Rodríguez | Desarrollador Full Stack 🚀
+# Nicolás UsopKing | Desarrollador Full Stack 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Ingeniero+de+Software+en+Formación;Especializado+en+Soluciones+Escalables;Apasionado+por+Open+Source+y+DevOps" alt="Título animado" />
