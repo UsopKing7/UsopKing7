@@ -3,17 +3,26 @@
 <h1 align="center">¡Hola 👋 Soy Nicolás!</h1>
 <h3 align="center">💻 Full Stack Developer | 🐧 Linux Lover | 🚀 Aprendiendo sin freno</h3>
 
-###
+---
+
+## 👨‍💻 Sobre mí
+
+Soy un desarrollador apasionado por el mundo del software libre, el backend sólido y las interfaces modernas.  
+Me encanta trabajar con **JavaScript, React, Node.js, Docker y Linux**, y siempre estoy buscando mejorar como **Full Stack Developer**.  
+Actualmente estoy desarrollando proyectos personales y contribuyendo en GitHub mientras aprendo nuevas tecnologías todos los días.  
+
+---
+
+## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsopKing7&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UsopKing7&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsopKing7&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UsopKing7&theme=dracula&utcOffset=0" height="150" />
 </p>
 
-###
-
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="150" alt="Coding gif" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UsopKing7&theme=dracula" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UsopKing7&theme=dracula" height="150" />
 </p>
 
 ---
