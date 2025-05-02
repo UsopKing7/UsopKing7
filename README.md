@@ -23,7 +23,7 @@
 
 ---
 
-### 🐍 Animación de código:
+### 🧰 Herramientas y Tecnologías:
 <div align="center">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40">
