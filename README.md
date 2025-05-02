@@ -16,7 +16,9 @@ Actualmente estoy desarrollando proyectos personales y contribuyendo en GitHub m
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsopKing7&theme=dracula&hide_border=false" height="150" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=UsopKing7&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+</p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UsopKing7&theme=dracula&utcOffset=0" height="150" />
 </p>
 
