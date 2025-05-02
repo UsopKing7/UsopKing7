@@ -1,67 +1,62 @@
-<br clear="both" />
-
-<h1 align="center">Hola 👋 ¡Soy Nicolás!</h1>
-<h3 align="center">Desarrollador Full Stack en crecimiento 🚀 | Apasionado por Linux, JS, React y más...</h3>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsopKing7&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UsopKing7&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</p>
-
-###
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="150" alt="Coding gif" />
-</p>
-
-###
-
-### 🛠️ Tech Stack
+# Nicolás Rodríguez | Desarrollador Full Stack 🚀
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="Vim" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Ingeniero+de+Software+en+Formación;Especializado+en+Soluciones+Escalables;Apasionado+por+Open+Source+y+DevOps" alt="Título animado" />
 </div>
 
-###
+## 🛠️ Stack Tecnológico Principal
 
-### 📫 Conectá conmigo
+### **Lenguajes de Programación**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-<p align="left">
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/tuusuario/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discordapp.com/users/TUID">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.youtube.com/@TUUSUARIO">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</p>
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-###
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/UsopKing7/count.svg?" />
-</p>
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+## 📊 Estadísticas GitHub
+
+<div align="center">
+  
+  ![Estadísticas](https://github-readme-stats.vercel.app/api?username=UsopKing7&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+  
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=UsopKing7&layout=compact&theme=dracula&langs_count=8)
+  
+  ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=UsopKing7&theme=dracula)
+</div>
+
+## 🏆 Proyectos Destacados
+
+| Proyecto | Tecnologías | Descripción | Enlace |
+|----------|------------|-------------|--------|
+| **Gestor Empresarial** | React, Node.js, PostgreSQL | Plataforma completa de gestión empresarial | [GitHub](https://github.com/UsopKing7/gestor-empresarial) |
+| **API de Análisis** | Python, FastAPI, Redis | Microservicio para procesamiento de datos | [GitHub](https://github.com/UsopKing7/data-analysis-api) |
+| **Notas con IA** | Next.js, OpenAI | Aplicación con integración de inteligencia artificial | [Demo](https://notas-ia-demo.com) |
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-dev)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.dev@example.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white)](https://nicolas-dev-portfolio.com)
+
+## 🔍 Actualmente Aprendiendo
+
+```mermaid
+graph LR
+  A[Arquitectura Microservicios] --> B[Patrones Avanzados]
+  B --> C[Event Sourcing]
+  C --> D[CQRS]
+  D --> E[Domain Driven Design]
