@@ -1,12 +1,3 @@
-class EthicalHacker:
-    def __init__(self):
-        self.name = "Nicolás"
-        self.role = "Pentester | Red Team"
-        self.skills = {
-            'Offensive': ['Web App Pentesting', 'Network Security', 'Exploit Development'],
-            'Defensive': ['Threat Analysis', 'SIEM', 'Firewall Configuration'],
-            'Tools': ['Metasploit', 'Burp Suite', 'Wireshark', 'Nmap', 'Ghidra'],
-            'Programming': ['Python', 'Bash', 'C', 'JavaScript', 'Assembly']
-        }
-        self.certifications = ['eJPT (En Progreso)', 'OSCP (Objetivo 2024)']
-        self.motto = "Conocer para proteger"
+🔥 Stack Tecnológico Avanzado
+💻 Lenguajes y Plataformas
+<div align="center"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" /> </div>
