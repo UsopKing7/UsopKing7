@@ -1,4 +1,4 @@
-# 🌟 Nicolás Rodríguez | Full Stack Developer
+# 🌟 Nicolás | Full Stack Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=800&lines=🚀+Transformando+ideas+en+soluciones+digitales;💻+Apasionado+por+el+código+limpio+y+eficiente;🌐+Especialista+en+arquitecturas+escalables" alt="Header animado" />
