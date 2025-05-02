@@ -51,8 +51,6 @@
 
 ---
 
-### 🧰 Herramientas y Tecnologías:
-
 <p align="center">
     <img src"https://www.flaticon.es/icono-gratis/piton_5968350?term=lenguaje+de+programaci%C3%B3n&page=1&position=1&origin=tag">
 </p>
