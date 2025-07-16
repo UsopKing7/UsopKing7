@@ -41,3 +41,12 @@
   <p>✨ <strong>Gracias por visitar mi perfil!</strong> ✨</p>
   <p><img src="https://komarev.com/ghpvc/?username=UsopKing7&color=blueviolet&style=flat-square" alt="Profile views"></p>
 </div>
+
+<div align="center">
+  <h2>📌 Mis Últimos Commits</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UsopKing7&theme=dracula&area=true&hide_border=true&custom_title=Mi+Actividad+Reciente" alt="Actividad reciente"/>
+  
+  <!-- Versión alternativa con commits como lista -->
+  <h3>⏱️ Historial Reciente</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UsopKing7&theme=dracula" alt="Resumen de actividad"/>
+</div>
