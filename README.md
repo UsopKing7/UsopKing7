@@ -60,16 +60,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UsopKing7/UsopKing7/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/UsopKing7/count.svg" alt="Profile views counter" />
-</p>
-
----
-
 <p align="center" style="font-size:18px">
   ¡Gracias por visitar mi perfil! 💻 Siempre aprendiendo y mejorando cada día 🚀
 </p>
