@@ -48,13 +48,13 @@
     <a href="mailto:nicolasguarachi888@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://www.linkedin.com/in/nicolas-guarachi/" target="_blank">
+    <a href="https://www.linkedin.com/in/nicolas-guarachi-561694317/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://discord.com/users/UsopKing7">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
-    <a href="https://youtube.com/@UsopKing7" target="_blank">
+    <a href="https://www.youtube.com/@limbertguarachi2400" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
   </p>
