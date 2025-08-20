@@ -59,6 +59,10 @@
     </a>
   </p>
 
+  ## 🚀 Mis Proyectos
+<p> Mira el tablero con todos mis proyectos 👉 [Portfolio Projects](https://github.com/users/UsopKing7/projects/4) </p>
+
+
   <p>✨ <strong>¡Gracias por visitar mi perfil! Siempre aprendiendo y construyendo cosas nuevas.</strong> ✨</p>
   <img src="https://komarev.com/ghpvc/?username=UsopKing7&color=blueviolet&style=flat-square" alt="Visitas"/>
 </div>
